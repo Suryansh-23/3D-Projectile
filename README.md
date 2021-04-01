@@ -24,7 +24,6 @@ To install the libraries required to run the project :
 $ pip install matplotlib
 $ pip install numpy
 $ pip install mplcursors
-
 ```
 
 ![alt text](https://matplotlib.org/_static/logo2_compressed.svg)  ![alt text](https://1000logos.net/wp-content/uploads/2020/08/Python-Logo.png)
