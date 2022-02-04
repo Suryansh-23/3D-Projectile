@@ -27,7 +27,7 @@ Project is created in `Python 3.8.7` with the following libraries:
 	
 	
 ## Working 
-### Libraries and thier uses 
+### Libraries and their uses 
 This project uses the aforementioned libraries for :
 * `Matplotlib-3.3.1` is used for plotting the coordinates of the projectile in the 3d Space.
 * `Numpy-1.18.5` is used for doing several computations required in the equations such as angle conversions (radian-to-degree & vice-versa) , initializing empty arrays of float type etc. 
